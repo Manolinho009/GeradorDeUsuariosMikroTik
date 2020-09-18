@@ -27,7 +27,6 @@ public class App
 	private static String login = "admin";
 	private static String ip = "192.168.1.224";
 	private static String profile = "hospedes";
-	private static String server = "wifi-hospedes";
 
 	//Array para armazenar as Strings de comandos para o Mikrotik
 	private static ArrayList<String> arrayFinal;
@@ -37,12 +36,6 @@ public class App
 	//Metodos responsaveis pela leitura e alteração das variaveis de configuração 
 	public static String getDocumento() {
 		return documento;
-	}
-	public static String getServer() {
-		return server;
-	}
-	public static void setServer(String server) {
-		App.server = server;
 	}
 	public static void setDocumento(String documento) {
 		App.documento = documento;
@@ -166,7 +159,7 @@ public class App
 				else if(operacao.equals("CKI")){
 
 					//Criando a String se comando usando os campos registrados no Array temporario
-					String result = "/ip/hotspot/user/add name="+listaTemp.get(2)+" server="+getServer()+"  password="+senha+" profile="+profile;
+					String result = "/ip/hotspot/user/add name="+listaTemp.get(2)+" password="+senha+" profile="+profile;
 
 					System.out.println(result);
 
@@ -201,7 +194,6 @@ public class App
 		System.out.println(prop.getProperty("senha"));
 		System.out.println(prop.getProperty("ip"));
 		System.out.println(prop.getProperty("profile"));
-		System.out.println(prop.getProperty("server"));
 
 
 		//Setando os campos de configuração de acordo com o arquivo de configuração.
@@ -210,7 +202,6 @@ public class App
 		setLogin(prop.getProperty("login"));
 		setSenha(prop.getProperty("senha"));
 		setProfile(prop.getProperty("profile"));
-		setProfile(prop.getProperty("server"));
 
 
 	}
