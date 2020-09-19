@@ -1,5 +1,14 @@
 package Thiago_Rocha.geradorDeSenhaMikroTik;
 
+import java.awt.AWTException;
+import java.awt.Image;
+import java.awt.MenuItem;
+import java.awt.PopupMenu;
+import java.awt.SystemTray;
+import java.awt.Toolkit;
+import java.awt.TrayIcon;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -27,6 +36,7 @@ public class App
 	private static String login = "admin";
 	private static String ip = "192.168.1.224";
 	private static String profile = "hospedes";
+	private static String server = "wifi-hospedes";
 
 	//Array para armazenar as Strings de comandos para o Mikrotik
 	private static ArrayList<String> arrayFinal;
@@ -36,6 +46,12 @@ public class App
 	//Metodos responsaveis pela leitura e alteração das variaveis de configuração 
 	public static String getDocumento() {
 		return documento;
+	}
+	public static String getServer() {
+		return server;
+	}
+	public static void setServer(String server) {
+		App.server = server;
 	}
 	public static void setDocumento(String documento) {
 		App.documento = documento;
@@ -64,41 +80,105 @@ public class App
 	public static void setProfile(String profile) {
 		App.profile = profile;
 	}
+	
+	private static Image imagem;
 
 
 	//Metodo main Executa assim que o programa abre.
-	public static void main(String[] args) throws MikrotikApiException, IOException {	
+	public static void main(String[] args) throws MikrotikApiException, IOException, InterruptedException {	
 
-		try {
+		
+		TrayIcon trayIcon = null;
+	     if (SystemTray.isSupported()) {
+	         // get the SystemTray instance
+	         SystemTray tray = SystemTray.getSystemTray();
+	         // load an image
+	         imagem = Toolkit.getDefaultToolkit().getImage("icone.png");
 
-			//Chamada do metodo que faz a leitura do arquivo de configuração
-			lerConfig();
+	         // create a action listener to listen for default action executed on the tray icon
+	         ActionListener listener = new ActionListener() {
+	             public void actionPerformed(ActionEvent e) {
+	                 // execute default action of the application
+	                 // ...
+	            	 
+	            	 System.exit(0);
+	             }
+	         };
+	         // create a popup menu
+	         PopupMenu popup = new PopupMenu();
+	         // create menu item for the default action
+	         MenuItem defaultItem = new MenuItem("Sair");
+	         defaultItem.addActionListener(listener);
+	         popup.add(defaultItem);
+	         /// ... add other items
+	         // construct a TrayIcon
+	         
+	         trayIcon = new TrayIcon(imagem, "Senha Mikrotik", popup);
+	         // set the TrayIcon properties
+	         //trayIcon.addActionListener(listener);
+	         // ...
+	         // add the tray image
+	         try {
+	             tray.add(trayIcon);
+	         } catch (AWTException e) {
+	             System.err.println(e);
+	         }
+	         // ...
+	     } else {
+	         // disable tray option in your application or
+	         // perform other actions
+	    	 
+	     }
+	     // ...
+	     // some time later
+	     // the application state has changed - update the image
+	     if (trayIcon != null) {
+	         trayIcon.setImage(imagem);
+	     }
+	     // ...
+	     
+	    while(true) {
+	    	try {
+	    		
+	    		
+	    		if(new File(documento).canRead()) {
+	    			
+	    			//Chamada do metodo que faz a leitura do arquivo de configuração
+	    			lerConfig();
+	    			
+	    			//Chamada do metodo que faz a separação e montagem do "Documento" em um array de Strings.
+	    			seletor();
+	    			
+	    			//Iniciando com a conexão ao MikroTik.
+	    			ApiConnection con = ApiConnection.connect(ip);
 
-			//Chamada do metodo que faz a separação e montagem do "Documento" em um array de Strings.
-			seletor();
-
-			//Iniciando com a conexão ao MikroTik.
-			ApiConnection con = ApiConnection.connect(ip);
-
-			//Efetuando o login no Mikrotik
-			con.login(login,senha);	
-
-			//Executando cada comando registrado no Array formano no seletor()
-			for(String s : arrayFinal){
-				con.execute(s);
-			}
-
-			//Fechando a conexão
-			con.close();
-
-			//Deletando o "Documento"
-			new File(documento).delete();
-
-		} catch (MikrotikApiException e) {
-			e.printStackTrace();
-		} 
-
-
+	    			
+	    			//Efetuando o login no Mikrotik
+	    			con.login(login,senha);	
+	    			
+	    			//Executando cada comando registrado no Array formano no seletor()
+	    			for(String s : arrayFinal){
+	    				//System.out.println("TESTE++"+con.execute(s));
+	    				try {con.execute(s);}catch (Exception e) {
+	    					System.err.println(s);
+	    				}
+	    				
+	    			}
+	    			
+	    			//Fechando a conexão
+	    			con.close();
+	    			
+	    			//Deletando o "Documento"
+	    			new File(documento).delete();
+	    		}
+	    		Thread.sleep(30000);
+	    		
+	    		
+	    	} catch (MikrotikApiException e) {
+	    		Thread.sleep(30000);
+	    		e.printStackTrace();
+	    	} 		
+	    }
 	}
 
 	//Metodo responsavel pela separação dos items no "Documento"
@@ -131,12 +211,12 @@ public class App
 					}
 				}
 
-				//Armazenando a operação junto com a senha.
-				String operacaoESenha = listaTemp.get(0).toString();
+				//Armazenando a operação junto com o usuario
+				String operacaoEUsuario = listaTemp.get(0).toString();
 
 				//Separando a operação da senha.
-				String operacao = operacaoESenha.substring(0, 3);
-				String senha = operacaoESenha.substring(3);
+				String operacao = operacaoEUsuario.substring(0, 3);
+				String usuario = operacaoEUsuario.substring(3);
 
 				//Verificando se devemos deletar ou adicionar um usuario.
 
@@ -159,7 +239,7 @@ public class App
 				else if(operacao.equals("CKI")){
 
 					//Criando a String se comando usando os campos registrados no Array temporario
-					String result = "/ip/hotspot/user/add name="+listaTemp.get(2)+" password="+senha+" profile="+profile;
+					String result = "/ip/hotspot/user/add password=\""+listaTemp.get(2).toLowerCase()+"\" name=\""+usuario+"\" profile=\""+profile+"\" server=\""+server+"\"";
 
 					System.out.println(result);
 
@@ -194,6 +274,7 @@ public class App
 		System.out.println(prop.getProperty("senha"));
 		System.out.println(prop.getProperty("ip"));
 		System.out.println(prop.getProperty("profile"));
+		System.out.println(prop.getProperty("server"));
 
 
 		//Setando os campos de configuração de acordo com o arquivo de configuração.
@@ -202,6 +283,7 @@ public class App
 		setLogin(prop.getProperty("login"));
 		setSenha(prop.getProperty("senha"));
 		setProfile(prop.getProperty("profile"));
+		setServer(prop.getProperty("server"));
 
 
 	}
