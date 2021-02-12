@@ -1,0 +1,853 @@
+Erro no metodo de execução main + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+Erro no metodo de execução main + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+Erro no metodo de execução main + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+Erro no metodo de execução main + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.224:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main  + me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+Erro no metodo de execução main -->
+me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
+ <-- Erro no metodo de execução main me.legrange.mikrotik.ApiConnectionException: Error connecting to 192.168.1.226:8728 : Connection timed out: no further information
